@@ -1,0 +1,38 @@
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\KindergartenManager.exe
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\KindergartenManager.deps.json
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\KindergartenManager.runtimeconfig.json
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\KindergartenManager.pdb
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\Kinderga.A10D3215.Up2Date
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\refint\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.pdb
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\KindergartenManager.genruntimeconfig.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\KindergartenManager\obj\Debug\net9.0\ref\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\KindergartenManager.exe
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\KindergartenManager.deps.json
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\KindergartenManager.runtimeconfig.json
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\KindergartenManager.pdb
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\Kinderga.A10D3215.Up2Date
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\refint\KindergartenManager.dll
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.pdb
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\KindergartenManager.genruntimeconfig.cache
+C:\Users\Admin\Downloads\BTL_OOP_CK\Báo cáo cuối Kỳ - 20237401\SourceCode\obj\Debug\net9.0\ref\KindergartenManager.dll
